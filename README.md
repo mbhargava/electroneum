@@ -8,8 +8,7 @@ Portions Copyright (c) 2012-2013, The Cryptonote developers
 ## Development Resources
 
 - Web: [laxcoinm.com](https://laxcoin.com)
-- Forum: [laxcointalk.proboards.com](https://laxcointalk.proboards.com)
-- Mail: [support@laxcoin.com](mailto:support@laxcoin.com)
+- Mail: [info@laxcoin.com](mailto:info@laxcoin.com)
 - GitHub: [https://github.com/laxmicoin/laxmicoin](https://github.com/laxmicoin/laxmicoin)
 
 ## Introduction
